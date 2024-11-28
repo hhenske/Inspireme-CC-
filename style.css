@@ -14,16 +14,18 @@ button {
   background-color: darkgreen;
   width: 200px;
   height: 40px;
+  margin-top: 20px;
   margin-left: 25%;
   border-radius: 5px;
   font: white;
   font-size: 20px;
 }
 
-container {
+span {
   border: 2px solid darkgreen;
   margin: 20px;
   text-align: center;
   padding: 8px;
   border-radius: 5px;
+  min-height: 100px;
 }
