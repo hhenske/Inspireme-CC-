@@ -1,0 +1,29 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 18px;
+  display: grid;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+  font: darkgreen;
+}
+
+button {
+  background-color: darkgreen;
+  width: 200px;
+  height: 40px;
+  margin-left: 25%;
+  border-radius: 5px;
+  font: white;
+  font-size: 20px;
+}
+
+container {
+  border: 2px solid darkgreen;
+  margin: 20px;
+  text-align: center;
+  padding: 8px;
+  border-radius: 5px;
+}
